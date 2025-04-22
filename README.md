@@ -1,6 +1,6 @@
-<h1 align="center">Привет, я <имя> 👋</h1>
+<h1 align="center">Привет, я Иван 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Разработчик+на+C%23%2C+Python%2C+JavaScript;Люблю+код%2C+чистоту+и+автоматизацию;Open+Source+навсегда!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Разработчик+на+C%23%2C+Python%2C+JavaScript;Люблю+код%2C+колу+и+покушать">
 </p>
   
 💻 Я  - разработчик на таких языках как:
