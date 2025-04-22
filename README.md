@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.gifer.com/B9Ov.mp4](https://media1.tenor.com/m/70k6w0zaZbsAAAAd/%D0%B0%D1%82%D0%B0%D0%BA%D0%B0%D1%82%D0%B8%D1%82%D0%B0%D0%BD%D0%BE%D0%B2-%D0%B2%D1%83%D0%B7.gif)" width="300"/>
+  <img src="https://media1.tenor.com/m/70k6w0zaZbsAAAAd/%D0%B0%D1%82%D0%B0%D0%BA%D0%B0%D1%82%D0%B8%D1%82%D0%B0%D0%BD%D0%BE%D0%B2-%D0%B2%D1%83%D0%B7.gif)" width="300"/>
 </p>
 
 <h1 align="center">Привет, я Иван 👋</h1>
