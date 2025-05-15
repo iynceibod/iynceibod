@@ -10,15 +10,7 @@
   <img src="https://skillicons.dev/icons?i=cs,python,javascript,react,nodejs,dotnet,git,linux,postgresql,html,css,vscode" />
 </p>
 
----
 
-### 💻 Я  - разработчик на таких языках как:
-
-- 🐍 Python  
-- ⚙️ C#  
-- 🌐 JavaScript  
-
----
 
 ### 📫 Как связаться со мной:
 
