@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Разработчик+на+C%23%2C+Python%2C+JavaScript;Люблю+код%2C+колу+и+покушать">
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,javascript,react,nodejs,dotnet,git,linux,postgresql,html,css,vscode" />
-</p>
-
-
-
 ### 📫 Как связаться со мной:
 
 <p>
